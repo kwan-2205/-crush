@@ -15,5 +15,4 @@ const CONFIG = {
     mess: 'Tuyệt vời 🥰 ',
     messDesc: 'YOu are the apple of my eyes',
     btnAccept: 'Okkk lun <3',
-    messLink: https://www.facebook.com/profile.php?id=100013953367445 //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    
