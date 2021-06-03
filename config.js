@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Do tớ ín love đúng hong? :))',
     btnReply: 'Gửi cho tớ nào <3',
     reply: 'Loving u from the first sight',
-    mess: 'Tuyệt vời 🥰 ',
+    mess: 'Tuyệt vời 🥰',
     messDesc: 'YOu are the apple of my eyes',
     btnAccept: 'Okkk lun <3',
-    
+    messLink: 'http://fb.com'
