@@ -8,7 +8,7 @@ const CONFIG = {
     title: 'Loving u from the first sight 😙',
     desc: 'Do u love me? ',
     btnYes: 'Yesss :>',
-    btnNo: 'Noo :")',
+    btnNo: 'Noo :") ',
     question:'Do tớ ín love đúng hong? :))',
     btnReply: 'Gửi cho tớ nào <3',
     reply: 'Loving u from the first sight',
